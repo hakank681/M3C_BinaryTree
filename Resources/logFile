@@ -1,0 +1,10 @@
+
+
+12-10-2017 16:26:41 INFO [main] Starter - Logging initialised
+12-10-2017 16:26:41 DEBUG [main] LoggingExample - Message Printed - Welcome to Logging
+12-10-2017 16:28:14 INFO [main] Starter - Logging initialised
+12-10-2017 16:28:14 TRACE [main] LoggingExample - Message set
+12-10-2017 16:28:14 DEBUG [main] LoggingExample - Message Printed - Welcome to Logging
+12-10-2017 16:28:36 INFO [main] Starter - Logging initialised
+12-10-2017 16:48:37 INFO [main] Main - Logging initialised
+12-10-2017 16:48:51 INFO [main] Main - Logging initialised
